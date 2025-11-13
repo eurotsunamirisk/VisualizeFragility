@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this notebook, please cite it as below."
+title: "Visualizing Tsunami Fragility Curves"
+authors:
+  - family-names: "Jalayer"
+    given-names: "Fatemeh"
+  - family-names: "Ebrahimian"
+    given-names: "Hossein"
+date-released: "2025-11-13"
+version: "0.0.1"
+doi:https://doi.org/10.5281/zenodo.17288181
