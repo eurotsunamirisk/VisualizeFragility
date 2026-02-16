@@ -24,14 +24,14 @@ Full datasets are available at:
 https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data_products/Fragility_Curves
 
 ## How to Run the Notebook
-1. Install dependencies:
-pip install -r requirements.txt
-2. Open the notebook:
-jupyter lab VisualizeFragility.ipynb
-3. Restart the kernel and run all cells from top to bottom.
+1. Install:
+   `pip install -r requirements.txt`
+2. Start Jupyter:
+   `jupyter lab`
+3. Open the notebook and run all cells top-to-bottom.
 
 ## Dependencies
-See `requirements.txt`.
+See `requirements.txt`
 
 ## References
 - https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data_products/Fragility_Curves
@@ -40,6 +40,7 @@ See `requirements.txt`.
 ## Citation
 Please cite this notebook using the information provided in `CITATION.cff`.
 - [![DOI](https://zenodo.org/badge/1157256281.svg)](https://doi.org/10.5281/zenodo.18657266)
+
 
 
 
