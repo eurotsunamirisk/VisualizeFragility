@@ -37,7 +37,11 @@ See `requirements.txt`.
 - https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data_products/Fragility_Curves
 - Jalayer, F., Ebrahimian, H., Trevlopoulos, K., Bradley, B. (2023). Empirical tsunami fragility modelling for hierarchical damage levels. Natural Hazards and Earth System Sciences, 23(2), 909-931. https://nhess.copernicus.org/articles/23/909/2023/
 
+- [![DOI](https://zenodo.org/badge/1157256281.svg)](https://doi.org/10.5281/zenodo.18657266)
+
+
 ## Citation
 Please cite this notebook using the information provided in `CITATION.cff`.
+
 
 
